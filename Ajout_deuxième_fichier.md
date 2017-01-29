@@ -1,0 +1,1 @@
+J'espere arriver au bout de cette affaire sans faire de nouvelle erreur qui me fasse à nouveau intégralement recommencer ce f^^$^ù$ TP car je ne sais pas supprimer les lignes lorsque j'oublie par exemple un ".md" !
