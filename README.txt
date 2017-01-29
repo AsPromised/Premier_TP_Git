@@ -1,0 +1,1 @@
+Je sais qu'il y a des incohérences dans mon TP, par exemple le fait qu'il y ai deja un readme.md dans mon repository, mais lorsque je l'enlevais je n'arrivais plus à accéder au repository. Une correction détaillée me serait extrêmement profitable sur tous les points qui ne correspondent pas à l'exercice ! Merci d'avance
